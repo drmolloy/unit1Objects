@@ -8,7 +8,7 @@ public class BrighterDemo
         JFrame frame= new JFrame();
         frame.setSize(200,200);
         
-        Color myColor= Color(50,100,150frame.getContentPane().setBackground(myColor);
+        Color myColor= Color(50,100,150)frame.getContentPane().setBackground(myColor);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
     }
