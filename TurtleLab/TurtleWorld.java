@@ -53,10 +53,55 @@ public class TurtleWorld
         turtle.turn(60);
         turtle.penUp();
         turtle.forward(25);
-        turtle.penDown
+        turtle.penDown();
+        turtle.forward(50);
+        turtle.backward(50);
+        turtle.turn(90);
+        turtle.forward(75);
+        turtle.turn(270);
+        turtle.forward(50);
+        turtle.turn(270);
+        turtle.penUp();
+        turtle.forward(38);
+        turtle.turn(270);
+        turtle.penDown();
+        turtle.forward(50);
         turtle2.penUp();
         turtle2.backward(200);
         turtle2.turn(270);
         turtle2.forward(300);
+        turtle2.turn(120);
+        turtle2.penDown();
+        turtle2.forward(90);
+        turtle2.turn(120);
+        turtle2.forward(45);
+        turtle2.turn(120);
+        turtle2.forward(45);
+        turtle2.backward(45);
+        turtle2.turn(240);
+        turtle2.forward(45);
+        turtle2.turn(300);
+        turtle2.penUp();
+        turtle2.forward(25);
+        turtle2.penDown();
+        turtle2.turn(270);
+        turtle2.forward(37);
+        turtle2.turn(90);
+        turtle2.forward(40);
+        turtle2.turn(270);
+        turtle2.forward(38);
+        turtle2.turn(90);
+        turtle2.backward(40);
+        turtle2.turn(90);
+        turtle2.forward(38);
+        turtle2.turn(270);
+        turtle2.forward(40);
+        turtle2.penUp();
+        turtle2.turn(270);
+        turtle2.forward(38);
+        turtle2.turn(90);
+        turtle2.forward(50);
+        
+       
     }
 }
